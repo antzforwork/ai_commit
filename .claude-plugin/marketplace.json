@@ -1,0 +1,14 @@
+{
+  "name": "antz-skills",
+  "owner": { "name": "Antz" },
+  "metadata": {
+    "description": "Antz's personal skills for code organization, git workflow and releases.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    { "name": "code-organization", "source": "./plugins/code-organization", "description": "Decide where a function belongs and which file it goes in.", "version": "1.0.0", "category": "development" },
+    { "name": "git-clean-attribution", "source": "./plugins/git-clean-attribution", "description": "Semantic commits plus clean MR/PR and work items, no AI attribution.", "version": "1.0.0", "category": "development" },
+    { "name": "git-semantic-commit", "source": "./plugins/git-semantic-commit", "description": "Semantic commit messages with a 50-char title, no AI attribution.", "version": "1.0.0", "category": "development" },
+    { "name": "semantic-version-release", "source": "./plugins/semantic-version-release", "description": "Semver bump, changelog + store release notes, commit, tag, push.", "version": "1.0.0", "category": "development" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "semantic-version-release",
+  "description": "Bump semver, write a technical CHANGELOG and user-facing store release notes per version, then commit, tag and push.",
+  "version": "1.0.0",
+  "author": { "name": "Antz" },
+  "keywords": ["semver", "release", "changelog", "play-store"]
+}

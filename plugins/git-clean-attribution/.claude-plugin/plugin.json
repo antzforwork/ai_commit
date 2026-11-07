@@ -1,0 +1,7 @@
+{
+  "name": "git-clean-attribution",
+  "description": "Semantic commits plus clean MR/PR and work item content with no AI attribution.",
+  "version": "1.0.0",
+  "author": { "name": "Antz" },
+  "keywords": ["git", "merge-request", "pull-request", "issue"]
+}

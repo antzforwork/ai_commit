@@ -1,0 +1,7 @@
+{
+  "name": "git-semantic-commit",
+  "description": "Semantic commit messages (type(scope): description, 50-char title) with no AI attribution, plus a commit prompt after finishing a task.",
+  "version": "1.0.0",
+  "author": { "name": "Antz" },
+  "keywords": ["git", "commit", "conventional-commits"]
+}

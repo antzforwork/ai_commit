@@ -1,0 +1,7 @@
+{
+  "name": "code-organization",
+  "description": "Decide where a function belongs (local, helper, formatter, validator, service, repository, domain) and which file it goes in.",
+  "version": "1.0.0",
+  "author": { "name": "Antz" },
+  "keywords": ["refactor", "architecture", "frappe", "flutter"]
+}
